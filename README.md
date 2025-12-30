@@ -15,11 +15,11 @@ Share functionality: Export generated QR codes as PNG images.
 
 
 # 🛠️ Tech Stack
-Framework: ![Flutter]([https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png])
+Framework: Flutter
 
 Language: Dart
 
-Key Packages:
+## Key Packages:
 
 qr_flutter: For generating QR codes.
 
@@ -32,3 +32,16 @@ share_plus: To share the generated codes.
 
 # 📸 Screenshots
 
+
+
+
+
+
+
+
+
+
+
+
+# 📦 How to Install
+Download the APK file from this repo and install in your android device or an emulator
