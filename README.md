@@ -31,12 +31,13 @@ share_plus: To share the generated codes.
 
 
 # 📸 Screenshots
+![Image](https://github.com/user-attachments/assets/52a4df8e-781d-4ad3-b3d4-5b4c2ea59468)
+![Image](https://github.com/user-attachments/assets/36d0b57e-cfb5-4a33-b309-e61a24bb21ef)
+![Image](https://github.com/user-attachments/assets/2661d34f-18ec-4720-a3df-551a45ebb764)
+![Image](https://github.com/user-attachments/assets/60c81ce1-dc0b-43f7-a00b-a27bb4c9aa56)
 
+#  📽️ Demo Video
 https://youtu.be/7WDFC1NEDic
-
-
-
-
 
 
 
