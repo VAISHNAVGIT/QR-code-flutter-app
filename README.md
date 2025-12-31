@@ -35,7 +35,8 @@ https://youtu.be/7WDFC1NEDic
 
 
 # 📦 How to Install
-Download the APK file from this repo and install in your android device or an emulator
+Download the APK file from this link given below and install in your android device or an emulator
+APP Download link: https://drive.google.com/file/d/1SQk9aF9E8AnF1Cqd_yPUBPK2wV3SPKjq/view?usp=drive_link
 
 # 📸 Screenshots
 ![Image](https://github.com/user-attachments/assets/52a4df8e-781d-4ad3-b3d4-5b4c2ea59468)
